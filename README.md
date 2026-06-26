@@ -1,4 +1,4 @@
-# 🍽️ FOODIFY – Recipe Finder App
+# 🍽️ Recipe Finder App
 
 ![React](https://img.shields.io/badge/Frontend-React.js-blue)
 ![API](https://img.shields.io/badge/API-Spoonacular-orange)
@@ -48,7 +48,6 @@ Foodify is a frontend-based recipe search application designed using React compo
 * Clean and modern UI
 * Fast client-side rendering
 
----
 
 ## 🧠 Architecture Overview
 
@@ -59,7 +58,6 @@ Foodify is a frontend-based recipe search application designed using React compo
 * Reusable UI components
 * Responsive frontend design
 
----
 
 ## 🛠️ Tech Stack
 
@@ -87,7 +85,6 @@ Foodify is a frontend-based recipe search application designed using React compo
 * Axios / Fetch API
 * VS Code
 
----
 
 ## ⚙️ Workflow
 
@@ -99,7 +96,6 @@ Foodify is a frontend-based recipe search application designed using React compo
 6. User selects a recipe
 7. Detailed ingredients and instructions are displayed
 
----
 
 ## 🔗 API Endpoints
 
@@ -157,14 +153,16 @@ FOOD-RECIPE-APP/
 ├── public/
 ├── src/
 │   ├── components/
-│   ├── assets/
-│   ├── App.js
-│   ├── index.js
-│   └── styles/
+│   ├── redux/
+│   ├── App.jsx
+│   ├── main.js
+│   
 │
 ├── screenshots/
 ├── package-lock.json
 ├── package.json
+├── eslint.config.json
+├── vite.config.js
 ├── README.md
 │
 └── .gitignore
@@ -194,7 +192,6 @@ FOOD-RECIPE-APP/
   <img src="screenshots/ingredients.png" width="45%">
 </p>
 
----
 
 ## 📌 KEY ENGINEERING HIGHLIGHTS
 
@@ -206,7 +203,6 @@ FOOD-RECIPE-APP/
 * Reusable and modular components
 * Clean frontend code structure
 
----
 
 ## 🚀 FUTURE ENHANCEMENTS
 
@@ -218,8 +214,6 @@ FOOD-RECIPE-APP/
 * Dark mode support
 * Search history functionality
 * User authentication system
-
----
 
 ## 👨‍💻 Author
 
