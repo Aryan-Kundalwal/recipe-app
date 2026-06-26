@@ -175,21 +175,21 @@ FOOD-RECIPE-APP/
 ### 🔍 Search Recipe
 
 <p align="center">
-  <img src="screenshots/home.png" width="45%">
-  <img src="screenshots/search.png" width="45%">
+  <img src="screenshots/search_recipe_1.png" width="45%">
+  <img src="screenshots/search_recipe_1.png" width="45%">
 </p>
 
 ### 🍽️ Recipe Details
 
 <p align="center">
-  <img src="screenshots/recipe_1.png" width="45%">
-  <img src="screenshots/recipe_2.png" width="45%">
+  <img src="screenshots/food_item.png" width="45%">
+  <img src="screenshots/recipe.png" width="45%">
 </p>
 
 ### 🥗 Ingredients
 
 <p align="center">
-  <img src="screenshots/ingredients.png" width="45%">
+  <img src="screenshots/ingredients_1.png" width="45%">
 </p>
 
 
